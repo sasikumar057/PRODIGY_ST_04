@@ -5,8 +5,8 @@ from selenium.webdriver.firefox.options import Options as FirefoxOptions
 from selenium.webdriver.edge.options import Options as EdgeOptions
 from selenium.webdriver.safari.options import Options as SafariOptions
 
-LAMBDA_USERNAME = "sasi200510"
-LAMBDA_ACCESS_KEY = "uTxxcBOjRL8mcdeMir8Jgyyvf9DJZ8uvz9tBBxOmYS9vMwLgbt"
+LAMBDA_USERNAME = "xyz@gmail"
+LAMBDA_ACCESS_KEY = "ljoiclkjlweroijlckjalkmdflksdfjosidjlckj"
 
 LAMBDA_GRID_URL = f"https://{LAMBDA_USERNAME}:{LAMBDA_ACCESS_KEY}@hub.lambdatest.com/wd/hub"
 
